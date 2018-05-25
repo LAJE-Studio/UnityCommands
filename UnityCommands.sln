@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityCommands", "UnityCommands\UnityCommands.csproj", "{EDC3B7D7-98B0-4A01-9B02-818D56F27B83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnityCommands-Root", "UnityCommands-Root", "{144126B3-5478-47BD-A295-A745FDF80C75}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC3B7D7-98B0-4A01-9B02-818D56F27B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC3B7D7-98B0-4A01-9B02-818D56F27B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC3B7D7-98B0-4A01-9B02-818D56F27B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC3B7D7-98B0-4A01-9B02-818D56F27B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
